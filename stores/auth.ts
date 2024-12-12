@@ -7,6 +7,8 @@ interface UserInterface {
 const MODE = import.meta.env.VITE_MODE;
 
 const API = MODE === 'production' ? import.meta.env.VITE_API_PROD : import.meta.env.VITE_API_DEV;
+console.log(API);
+
 export const useAuthStore = defineStore('auth', {
     state: () => ({
         authenticated: false
