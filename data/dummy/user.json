@@ -1,0 +1,400 @@
+{
+    "code": 200,
+    "status": "Success",
+    "data": {
+        "current_page": 1,
+        "data": [
+            {
+                "id": 3451,
+                "name": "Shaendy Ifada",
+                "username": "WS Shaendy",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 11065,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3397,
+                "name": "Suci Hariani",
+                "username": "PT Suci",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10829,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3390,
+                "name": "Ginanjar",
+                "username": "SQ Ginanjar",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10797,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3389,
+                "name": "Ipah Anisa Hanapi",
+                "username": "EP Ipah",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10793,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3387,
+                "name": "Yani Maryani",
+                "username": "EP Yani",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10785,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3374,
+                "name": "Nine Laelah Nurhiyati",
+                "username": "RQ Nine",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10733,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3369,
+                "name": "Dwi Adhitiya",
+                "username": "UG Dwi",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10713,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3339,
+                "name": "Siti Rodiah",
+                "username": "WK Rodiah",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10593,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3335,
+                "name": "Kania Dewi",
+                "username": "GI Kania",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10577,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3301,
+                "name": "Rikjal Pauji",
+                "username": "CR Rikjal",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10441,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3295,
+                "name": "Idrus Jamallulail",
+                "username": "ON Idrus",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10417,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3292,
+                "name": "Fuji Fitriyani",
+                "username": "TP Fuji",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10405,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3291,
+                "name": "Muhammad Farras Syaddad",
+                "username": "PW2 Farras",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10401,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3286,
+                "name": "Teguh Pirmansyah",
+                "username": "AT Teguh",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10381,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3279,
+                "name": "Nur Intan Qorifatul Amalia",
+                "username": "RL Intan",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10353,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3226,
+                "name": "Nurul Syifa Mairani",
+                "username": "IJ Nurul",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10137,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3212,
+                "name": "Natasya Kristina ",
+                "username": "GH Kristina",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10081,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3204,
+                "name": "Johannes Rychard",
+                "username": "TGS Johannes",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 10049,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3174,
+                "name": "Elsa Elyasanti",
+                "username": "ZG Elsa",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 9929,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            },
+            {
+                "id": 3164,
+                "name": "Nabila Amirivanty",
+                "username": "JT Nabila",
+                "email": null,
+                "role_id": 1,
+                "devisi_id": 15,
+                "is_active": 0,
+                "is_new_user": 0,
+                "pin": null,
+                "id_user_staff_pugindo": 9889,
+                "role": {
+                    "id": 1,
+                    "is_active": 1,
+                    "name": "Pramuniaga",
+                    "level": 1
+                },
+                "admin": null
+            }
+        ],
+        "first_page_url": "http://api-dev.pusatgadai.id/api/admin/management-users?page=1",
+        "from": 1,
+        "last_page": 57,
+        "last_page_url": "http://api-dev.pusatgadai.id/api/admin/management-users?page=57",
+        "next_page_url": "http://api-dev.pusatgadai.id/api/admin/management-users?page=2",
+        "path": "http://api-dev.pusatgadai.id/api/admin/management-users",
+        "per_page": "20",
+        "prev_page_url": null,
+        "to": 20,
+        "total": 1128
+    },
+    "time_stamp": "2023-10-10T03:41:12.414086Z"
+}
